@@ -57,10 +57,10 @@ export default function CTA() {
               Speak with our sustainability experts
             </p>
             <a 
-              href="tel:+1-555-PLASTIX" 
+              href="tel:+919315684521" 
               className="text-primary-600 hover:text-primary-700 font-medium transition-colors duration-200"
             >
-              +1 (555) PLASTIX
+              +91 9315684521
             </a>
           </div>
 
@@ -75,8 +75,9 @@ export default function CTA() {
               Tour our sustainable manufacturing facility
             </p>
             <address className="text-primary-600 not-italic">
-              123 Green Innovation Blvd<br />
-              Sustainability City, SC 12345
+              A-13, Gaytari Colony<br />
+              Indira Nagar, Lucknow<br />
+              226016
             </address>
           </div>
         </div>
